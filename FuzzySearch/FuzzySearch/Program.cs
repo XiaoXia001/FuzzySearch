@@ -20,6 +20,8 @@ namespace FuzzySearch
         private static Stopwatch stopwatch = new Stopwatch();
         private static Dictionary<string, double> _myScheme = new Dictionary<string, double>();
         private static Dictionary<string, double> _fuScheme = new Dictionary<string, double>();
+        private static double threshold = 0;
+        private static string _queryString = "farawell";
 
         public static void Main(string[] args)
         {
@@ -156,8 +158,10 @@ namespace FuzzySearch
             Console.WriteLine($"Uni-Gram生成索引所需时间为：{stopwatch.Elapsed.TotalMilliseconds}");
             Console.ReadLine();
 
-            QueryWithMyScheme("Ferewele");
-            QueryWithFuScheme("Ferewele");
+            threshold = CaculateThreshold(_queryString);
+
+            QueryWithMyScheme(_queryString);
+            QueryWithFuScheme(_queryString);
         }
 
         /// <summary>
@@ -225,7 +229,10 @@ namespace FuzzySearch
                 {
                     score += blooms[i][j] * bloom[j];
                 }
-                _myScheme.Add(FileList[i], score);
+                if (score >= threshold)
+                {
+                    _myScheme.Add(FileList[i], score);
+                }
                 //_myScheme[score] = FileList[i];
                 //res.Add(score, FileList[i]);
                 //Console.WriteLine($"第{i}个文本为{FileList[i]}；");
@@ -343,21 +350,43 @@ namespace FuzzySearch
 
             List<string> stemmedDoc;
             List<string> vocabulary;
+            double[] tfs = new double[8000];
+            double[] bloom = new double[8000];
 
             vocabulary = SchemeProcess.GetVocabulary(s, out stemmedDoc, 0);
 
-            var ss = GenerateRandomString(s);
-
-            return res;
-        }
-
-        private static string[] GenerateRandomString(string s)
-        {
-            string[] res = new string[10];
-            for(int i = 0; i < 10; i++)
+            foreach(string stem in vocabulary)
             {
-
+                double tf = 0.15;
+                var biList = MyScheme.TransformKeywordsToBiGram(stem);
+                var index = MyScheme.BiGramToVector(biList);
+                //var s = string.Join("", index);
+                foreach (int i in _mh.getMinHashSignatures(index))
+                {
+                    if (i >= 8000) continue;
+                    if (tfs[i] == 0)
+                    {
+                        tfs[i] = tf;
+                    }
+                    if (bloom[i] == 0)
+                    {
+                        if (!_wordIdf.ContainsKey(stem))
+                        {
+                            bloom[i] = 0;
+                        }
+                        else
+                        {
+                            bloom[i] = _wordIdf[stem];
+                        }
+                        bloom[i] = Math.Log((double)FileList.Length / (bloom[i] + 1));
+                    }
+                }
             }
+            for(int i = 0; i < 8000; i++)
+            {
+                res += tfs[i] * bloom[i];
+            }
+
             return res;
         }
     }

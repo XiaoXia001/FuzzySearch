@@ -10,3 +10,15 @@ D:\db\FuzzySearch\FuzzySearch\bin\Debug\StemmersNet.dll
 D:\db\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.dll
 D:\db\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.pdb
 D:\db\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.xml
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\bin\Debug\FuzzySearch.exe.config
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\bin\Debug\FuzzySearch.exe
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\bin\Debug\FuzzySearch.pdb
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\bin\Debug\StemmersNet.dll
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.dll
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.pdb
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.xml
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.csprojAssemblyReference.cache
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.csproj.CoreCompileInputs.cache
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.csproj.CopyComplete
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.exe
+D:\java\project\fuzzy search\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.pdb
