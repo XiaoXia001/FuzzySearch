@@ -1,0 +1,12 @@
+D:\db\FuzzySearch\FuzzySearch\bin\Debug\FuzzySearch.exe.config
+D:\db\FuzzySearch\FuzzySearch\bin\Debug\FuzzySearch.exe
+D:\db\FuzzySearch\FuzzySearch\bin\Debug\FuzzySearch.pdb
+D:\db\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.csprojAssemblyReference.cache
+D:\db\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.csproj.CoreCompileInputs.cache
+D:\db\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.csproj.CopyComplete
+D:\db\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.exe
+D:\db\FuzzySearch\FuzzySearch\obj\Debug\FuzzySearch.pdb
+D:\db\FuzzySearch\FuzzySearch\bin\Debug\StemmersNet.dll
+D:\db\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.dll
+D:\db\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.pdb
+D:\db\FuzzySearch\FuzzySearch\bin\Debug\VDS.Common.xml

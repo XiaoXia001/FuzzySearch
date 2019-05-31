@@ -1,0 +1,259 @@
+tltle
+Farewell Editorial.
+Beyond Overlay: Reaping Mutual Benefits for Primary and Secondary Networks Through Node-Level Cooperation.
+CarrierMix: How Much Can User-side Carrier Mixing Help?
+Collaborative Smartphone Sensing Using Overlapping Coalition Formation Games.
+Cross-Device Wi-Fi Map Fusion with Gaussian Processes.
+DIVERT: A Distributed Vehicular Traffic Re-Routing System for Congestion Avoidance.
+Drive Now, Text Later: Nonintrusive Texting-While-Driving Detection Using Smartphones.
+Energy Aware Offloading for Competing Users on a Shared Communication Channel.
+Energy-Aware Cooperative Traffic Offloading via Device-to-Device Cooperations: An Analytical Approach.
+Experimental Evaluation of WiFi Active Power/Energy Consumption Models for Smartphones.
+Geometrical Characterization of Offloading through Wireless LANs.
+GreenCoMP: Energy-Aware Cooperation for Green Cellular Networks.
+Impact of Full Duplex Scheduling on End-to-End Throughput in Multi-Hop Wireless Networks.
+Intra-MARIO: A Fast Mobility Management Protocol for 6LoWPAN.
+Online Throughput Maximization for Energy Harvesting Communication Systems with Battery Overflow.
+Receiver-Initiated Spectrum Management for Underwater Cognitive Acoustic Network.
+TCP Download Performance in Dense WiFi Scenarios: Analysis and Solution.
+Toward a Wearable RFID System for Real-Time Activity Recognition Using Radio Patterns.
+Wideband Spectrum Adaptation Without Coordination.
+Wireless Network Inference and Optimization: Algorithm Design and Implementation.
+A Weighted Crowdsourcing Approach for Network Quality Measurement in Cellular Data Networks.
+Apprenticeship Learning Based Spectrum Decision in Multi-Channel Wireless Mesh Networks with Multi-Beam Antennas.
+ARM: Anonymous Rating Mechanism for Discrete Power Control.
+Deploy-As-You-Go Wireless Relay Placement: An Optimal Sequential Decision Approach Using the Multi-Relay Channel Model.
+Effective Static and Adaptive Carrier Sensing for Dense Wireless CSMA Networks.
+Experimental Evaluation of Impulsive Ultrasonic Intra-Body Communications for Implantable Biomedical Devices.
+GRfid: A Device-Free RFID-Based Gesture Recognition System.
+InfraSee: An Unobtrusive Alertness System for Pedestrian Mobile Phone Users.
+Maximum Link Activation with Cooperative Transmission and Interference Cancellation in Wireless Networks.
+Medium Access Control for Wireless Body Area Networks with QoS Provisioning and Energy Efficient Design.
+NoPSM: A Concurrent MAC Protocol over Low-Data-Rate Low-Power Wireless Channel without PRR-SINR Model.
+On the Design of a Reward-Based Incentive Mechanism for Delay Tolerant Networks.
+Pallas: Self-Bootstrapping Fine-Grained Passive Indoor Localization Using WiFi Monitors.
+Performance Analysis of Mobile Data Offloading in Heterogeneous Networks.
+Robotic Message Ferrying for Wireless Networks Using Coarse-Grained Backpressure Control.
+RT-Fall: A Real-Time and Contactless Fall Detection System with Commodity WiFi Devices.
+Soft Hint Enabled Adaptive Visible Light Communication over Screen-Camera Links.
+Two-Sided Matching Based Cooperative Spectrum Sharing.
+Understanding Smartphone Sensor and App Data for Enhancing the Security of Secret Questions.
+Virtual Multipath Attack and Defense for Location Distinction in Wireless Networks.
+WiFall: Device-Free Fall Detection by Wireless Networks.
+A Game-Theoretical Analysis of Wireless Markets Using Network Aggregation.
+A Novel Framework of Multi-Hop Wireless Charging for Sensor Networks Using Resonant Repeaters.
+Analytical Evaluation of Saturation Throughput of a Cognitive WLAN Overlaid on a Time-Scheduled OFDMA Network.
+Anti-Jamming Rendezvous Scheme for Cognitive Radio Networks.
+ART: Adaptive fRequency-Temporal Co-Existing of ZigBee and WiFi.
+Code, Cache and Deliver on the Move: A Novel Caching Paradigm in Hyper-Dense Small-Cell Networks.
+Color Scheme Adaptation to Enhance User Experience on Smartphone Displays Leveraging Ambient Light.
+Design and Analysis of an Efficient Friend-to-Friend Content Dissemination System.
+E-HIPA: An Energy-Efficient Framework for High-Precision Multi-Target-Adaptive Device-Free Localization.
+Engage Others or Leave it to the Source? On Optimal Message Replication in DTNs Under Imperfect Cooperation.
+Enhanced Deployment Algorithms for Heterogeneous Directional Mobile Sensors in a Bounded Monitoring Area.
+GDVAN: A New Greedy Behavior Attack Detection Algorithm for VANETs.
+Mobile Demand Profiling for Cellular Cognitive Networking.
+On Improving Wireless Channel Utilization: A Collision Tolerance-Based Approach.
+ORBIT: A Platform for Smartphone-Based Data-Intensive Sensing Applications.
+Overcoming IoT Language Barriers Using Smartphone SDRs.
+Quantifying Interdependent Privacy Risks with Location Data.
+Route or Carry: Motion-Driven Packet Forwarding in Micro Aerial Vehicle Networks.
+Traffic Decorrelation Techniques for Countering a Global Eavesdropper in WSNs.
+Ubii: Physical World Interaction Through Augmented Reality.
+UM Paging: Unified M2M Paging with Optimal DRX Cycle.
+A Game-Theoretic Framework for Network Coding Based Device-to-Device Communications.
+Analysis of Multi-Hop Probabilistic Forwarding for Vehicular Safety Applications on Highways.
+Differentially Private Location Protection for Worker Datasets in Spatial Crowdsourcing.
+Empowering Device-to-Device Networks with Cross-Link Interference Management.
+Load Balancing Under Heavy Traffic in RPL Routing Protocol for Low Power and Lossy Networks.
+Localizability Judgment in UWSNs Based on Skeleton and Rigidity Theory.
+Maximizing Charging Satisfaction of Smartphone Users via Wireless Energy Transfer.
+Minimizing Context Migration in Mobile Code Offload.
+Montage: Combine Frames with Movement Continuity for Realtime Multi-User Tracking.
+Multi-Channel Medium Access without Control Channels: A Full Duplex MAC Design.
+Network Coding as a Performance Booster for Concurrent Multi-Path Transfer of Data in Multi-Hop Wireless Networks.
+Optimized Upload Strategies for Live Scalable Video Transmission from Mobile Devices.
+Performance-Aware Energy Optimization on Mobile Devices in Cellular Network.
+Priority-Aware FEC Coding for High-Definition Mobile Video Delivery Using TCP.
+Propagation- and Mobility-Aware D2D Social Content Replication.
+RSS-Based Ranging by Leveraging Frequency Diversity to Distinguish the Multiple Radio Paths.
+Securing the Backpressure Algorithm for Wireless Networks.
+SEND: A Situation-Aware Emergency Navigation Algorithm with Sensor Networks.
+ShakeUnlock: Securely Transfer Authentication States Between Mobile Devices.
+Spectrum-Aware Anypath Routing in Multi-Hop Cognitive Radio Networks.
+Utility Maximization for Multimedia Data Dissemination in Large-Scale VANETs.
+Editorial: A Message from the Incoming Editor-in-Chief.
+A Fine-Grained Indoor Location-Based Social Network.
+A New Zigzag-Decodable Code with Efficient Repair in Wireless Distributed Storage.
+A Reliable and Efficient Distributed Service Composition Approach in Pervasive Environments.
+An RFID Based Smartphone Proximity Absence Alert System.
+Channel Selection Algorithm for Cognitive Radio Networks with Heavy-Tailed Idle Times.
+Characterizing the Instantaneous Connectivity of Large-Scale Urban Vehicular Networks.
+Cooperative Source Node Tracking in Non-Line-of-Sight Environments.
+Exploring Tag Distribution in Multi-Reader RFID Systems.
+Harnessing Encrypted Data in Cloud for Secure and Efficient Mobile Image Sharing.
+Measuring and Understanding RRC State Machine Optimization in Light of Recent Advancements.
+Mobility Aware Virtual Network Embedding.
+MoZo: A Moving Zone Based Routing Protocol Using Pure V2V Communication in VANETs.
+On Missing Tag Detection in Multiple-Group Multiple-Region RFID Systems.
+Optimal Cooperative Content Caching and Delivery Policy for Heterogeneous Cellular Networks.
+Optimal Sleep-Wake Scheduling for Energy Harvesting Smart Mobile Devices.
+Pothole in the Dark: Perceiving Pothole Profiles with Participatory Urban Vehicles.
+Practical Opportunistic Data Collection in Wireless Sensor Networks with Mobile Sinks.
+Recover Corrupted Data in Sensor Networks: A Matrix Completion Solution.
+Spectrum-Energy Efficiency Optimization for Downlink LTE-A for Heterogeneous Networks.
+Stability Analysis of Frame Slotted Aloha Protocol.
+ZapDroid: Managing Infrequently Used Applications on Smartphones.
+A Distributed Learning Automata Scheme for Spectrum Management in Self-Organized Cognitive Radio Network.
+An Adaptive Bayesian System for Context-Aware Data Fusion in Smart Environments.
+AT-MAC: Adaptive MAC-Frame Payload Tuning for Reliable Communication in Wireless Body Area Networks.
+Batch Identification Game Model for Invalid Signatures in Wireless Mobile Networks.
+Battery-Aware Mobile Data Service.
+Cooperative Wi-Fi Deployment: A One-to-Many Bargaining Framework.
+Cost-Effective Mapping between Wireless Body Area Networks and Cloud Service Providers Based on Multi-Stage Bargaining.
+Data Analytics for Diagnosing the RF Condition in Self-Organizing Networks.
+Efficient 3G/4G Budget Utilization in Mobile Sensing Applications.
+Feedback-Free Binning Design for Mobile Wyner-Ziv Video Coding: An Operational Duality between Source Distortion and Channel Capacity.
+FRESH: Push the Limit of D2D Communication Underlaying Cellular Networks.
+GPS-Free Maintenance of A Free-Space-Optical Link Between Two Autonomous Mobiles.
+How to Download More Data from Neighbors? A Metric for D2D Data Offloading Opportunity.
+INTRI: Contour-Based Trilateration for Indoor Fingerprint-Based Localization.
+Latency Aware IPv6 Packet Delivery Scheme over IEEE 802.15.4 Based Battery-Free Wireless Sensor Networks.
+Learn to Recognise: Exploring Priors of Sparse Face Recognition on Smartphones.
+Near Optimal Data Gathering in Rechargeable Sensor Networks with a Mobile Sink.
+Robust Large-Scale Spectrum Auctions against False-Name Bids.
+There and Back Again: Detecting Regularity in Human Encounter Communities.
+TSRA: An Adaptive Mechanism for Switching between Communication Modes in Full-Duplex Opportunistic Spectrum Access Systems.
+Whom to Blame? Automatic Diagnosis of Performance Bottlenecks on Smartphones.
+Comments on the Paper "Personal Mobile Radars with Millimeter-Wave Massive Arrays for Indoor Mapping".
+A Study on Application-Aware Scheduling in Wireless Networks.
+Activity Probability-Based Performance Analysis and Contention Control for IEEE 802.11 WLANs.
+Adaptive Optimal Stochastic Control of Delay-Tolerant Networks.
+Delay Analysis and Routing for Two-Dimensional VANETs Using Carry-and-Forward Mechanism.
+Dual-Scheduler Design for C/U-Plane Decoupled Railway Wireless Networks.
+Economic Analysis of Crowdsourced Wireless Community Networks.
+E-MICE: Energy-Efficient Concurrent Exploitation of Multiple Wi-Fi Radios.
+General Framework for Network Throughput Maximization in Sink-Based Energy Harvesting Wireless Sensor Networks.
+Indoor Localization and Automatic Fingerprint Update with Altered AP Signals.
+It Can Drain Out Your Energy: An Energy-Saving Mechanism Against Packet Overhearing in High Traffic Wireless LANs.
+Joint Cell Zooming and Channel Allocation Using C-SAP for Large Action Sets.
+Load-Balanced Opportunistic Routing for Duty-Cycled Wireless Sensor Networks.
+Maximum Lifetime Combined Barrier-Coverage of Weak Static Sensors and Strong Mobile Sensors.
+Neighbor Discovery and Rendezvous Maintenance with Extended Quorum Systems for Mobile Applications.
+On the Competition Among Small Cell Wireless Operators with Large Scale Deployments.
+Optimal Device-Aware Caching.
+Rapid, User-Transparent, and Trustworthy Device Pairing for D2D-Enabled Mobile Crowdsourcing.
+Smartphone-Based Real Time Vehicle Tracking in Indoor Parking Structures.
+Sparsity Based Efficient Cross-Correlation Techniques in Sensor Networks.
+THEMIS: Collusion-Resistant and Fair Pricing Spectrum Auction Under Dynamic Supply.
+Using Wireless Link Dynamics to Extract a Secret Key in Vehicular Scenarios.
+A Joint Indoor WLAN Localization and Outlier Detection Scheme Using LASSO and Elastic-Net Optimization Techniques.
+A Mean Field Analysis of CSMA/CA Throughput.
+A Proxy-Based Collaboration System to Minimize Content Download Time and Energy Consumption.
+Analysis of Dynamic Channel Bonding in Dense Networks of WLANs.
+CBS: Community-Based Bus System as Routing Backbone for Vehicular Ad Hoc Networks.
+Content-Aware Network Coding Over Device-to-Device Networks.
+Context-Aware System Design for Remote Health Monitoring: An Application to Continuous Edema Assessment.
+Contradiction Based Gray-Hole Attack Minimization for Ad-Hoc Networks.
+Detecting Mobile Malicious Webpages in Real Time.
+Fine-Grained Abnormal Driving Behaviors Detection and Identification with Smartphones.
+Low-Cost Collaborative Mobile Charging for Large-Scale Wireless Sensor Networks.
+Modeling Buffer Starvations of Video Streaming in Cellular Networks with Large-Scale Measurement of User Behavior.
+Network-Assisted Outband D2D-Clustering in 5G Cellular Networks: Theory and Practice.
+Novel Design on Multiple Channel Sensing for Partially Observable Cognitive Radio Networks.
+Offloading in HetNet: A Coordination of Interference Mitigation, User Association, and Resource Allocation.
+On Timing Reacquisition and Enhanced Primary Synchronization Signal (ePSS) Design for Energy Efficient 3GPP LTE MTC.
+Online Task Assignment for Crowdsensing in Predictable Mobile Social Networks.
+Opportunistic Network Decoupling with Virtual Full-Duplex Operation in Multi-Source Interfering Relay Networks.
+Reliable Physical-Layer Network Coding Supporting Real Applications.
+Tracking People in Highly Dynamic Industrial Environments.
+Wi-Fi Seeker: A link and Load Aware AP Selection Algorithm.
+Worker-Contributed Data Utility Measurement for Visual Crowdsensing Systems.
+A Budget Feasible Incentive Mechanism for Weighted Coverage Maximization in Mobile Crowdsensing.
+A Framework for Packet Delay Analysis of Point-to-Multipoint Underlay Cognitive Radio Networks.
+A Priority-Aware Truthful Mechanism for Supporting Multi-Class Delay-Sensitive Medical Packet Transmissions in E-Health Networks.
+Analysis of Coverage Under Border Effects in Three-Dimensional Mobile Sensor Networks.
+Concurrently Wireless Charging Sensor Networks with Efficient Scheduling.
+Delay Analysis of Epidemic Schemes in Sparse and Dense Heterogeneous Contact Networks.
+Drone Path Planning for Secure Positioning and Secure Position Verification.
+DV-maxHop: A Fast and Accurate Range-Free Localization Algorithm for Anisotropic Wireless Networks.
+Dynamic, Privacy-Preserving Decentralized Reputation Systems.
+Embracing Corruption Burstiness: Fast Error Recovery for ZigBee under Wi-Fi Interference.
+Gazelle: Energy-Efficient Wearable Analysis for Running.
+HiQuadLoc: A RSS Fingerprinting Based Indoor Localization System for Quadrotors.
+Locating Rogue Access Point Using Fine-Grained Channel Information.
+On Low-Overhead and Stable Data Transmission between Channel-Hopping Cognitive Radios.
+PLP: Protecting Location Privacy Against Correlation Analyze Attack in Crowdsensing.
+POLYPHONY: Scheduling-Free Cooperative Signal Recovery in Enterprise Wireless Networks.
+Private Retrieval of POI Details in Top-K Queries.
+ReWAP: Reducing Redundant Transfers for Mobile Web Browsing via App-Specific Resource Packaging.
+Smart Base Station-Assisted Partial-Flow Device-to-Device Offloading System for Video Streaming Services.
+Supermodular Game-Based Distributed Joint Uplink Power and Rate Allocation in Two-Tier Femtocell Networks.
+Survivability in Time-Varying Networks.
+A Tale of Ten Cities: Characterizing Signatures of Mobile Traffic in Urban Areas.
+A Two-Level Game Theory Approach for Joint Relay Selection and Resource Allocation in Network Coding Assisted D2D Communications.
+Automatic Rich Map Semantics Identification Through Smartphone-Based Crowd-Sensing.
+Behavior Based Human Authentication on Touch Screen Devices Using Gestures and Signatures.
+Cloud-Based Malware Detection Game for Mobile Devices with Offloading.
+Context-Aware Architecture for Probabilistic Voting-based Filtering Scheme in Sensor Networks.
+Crowdsourcing Sensing to Smartphones: A Randomized Auction Approach.
+Decoupled Uplink-Downlink User Association in Multi-Tier Full-Duplex Cellular Networks: A Two-Sided Matching Game.
+Minimal Perfect Hashing-Based Information Collection Protocol for RFID Systems.
+Minimum-Cost Crowdsourcing with Coverage Guarantee in Mobile Opportunistic D2D Networks.
+Network Utility Aware Traffic Load Balancing in Backhaul-Constrained Cache-Enabled Small Cell Networks with Hybrid Power Supplies.
+Optimizing Itinerary Selection and Charging Association for Mobile Chargers.
+Performance Analysis of RSS Fingerprinting Based Indoor Localization.
+QoS-Aware Adaptive A-MPDU Aggregation Scheduler for Voice Traffic in Aggregation-Enabled High Throughput WLANs.
+SeeR: Simulated Annealing-Based Routing in Opportunistic Mobile Networks.
+Sensor-Based Change Detection for Timely Solicitation of User Engagement.
+ShakeIn: Secure User Authentication of Smartphones with Single-Handed Shakes.
+ShuffleDog: Characterizing and Adapting User-Perceived Latency of Android Apps.
+SUPERMAN: Security Using Pre-Existing Routing for Mobile Ad hoc Networks.
+SWAROVsky: Optimizing Resource Loading for Mobile Web Browsing.
+Variational Inference-Based Positioning with Nondeterministic Measurement Accuracies and Reference Location Errors.
+Video On-Demand Service via Wireless Broadcasting.
+An Incentive Framework for Mobile Data Offloading Market Under Price Competition.
+Assuring Spatio-Temporal Integrity on Mobile Devices with Minimum Location Disclosure.
+Coverage and Rate Analysis for Facilitating Machine-to-Machine Communication in LTE-A Networks Using Device-to-Device Communication.
+Fatigue-Aware Management of Cellular Networks Infrastructure with Sleep Modes.
+Full Charge Capacity and Charging Diagnosis of Smartphone Batteries.
+Hermes: Latency Optimal Task Assignment for Resource-constrained Mobile Computing.
+Improving Throughput and Fairness of Convergecast in Vehicular Networks.
+Incentive Mechanisms for Data Dissemination in Autonomous Mobile Social Networks.
+Low Delay Random Linear Coding and Scheduling Over Multiple Interfaces.
+MALM: Mobility-Aware Location Management Scheme in Femto/Macrocell Networks.
+Mode Selection and Resource Allocation in Device-to-Device Communications: A Matching Game Approach.
+Multicast Scheduling for Relay-Based Heterogeneous Networks Using Rateless Codes.
+On Theoretical Trajectory Planning of Multiple Drones To Minimize Latency in Search-and-Reconnaissance Operations.
+Optimal Scheduling for Interference Mitigation by Range Information.
+Quality-Aware Traffic Offloading in Wireless Networks.
+Security Semantics Modeling with Progressive Distillation.
+Smartphone-Based Gait Recognition: From Authentication to Imitation.
+Towards Secure Data Distribution Systems in Mobile Cloud Computing.
+TRAMP Real-Time Application Mobility Platform.
+Video Liveness for Citizen Journalism: Attacks and Defenses.
+Virtual Occupancy Sensing: Using Smart Meters to Indicate Your Presence.
+Erratum to "Low-Cost Collaborative Mobile Charging for Large-Scale Wireless Sensor Networks".
+A Platform for Free-Weight Exercise Monitoring with Passive Tags.
+Analysis and Design of Low-Duty Protocol for Smartphone Neighbor Discovery.
+CeilingTalk: Lightweight Indoor Broadcast Through LED-Camera Communication.
+Efficient Approximation Algorithms for Multi-Antennae Largest Weight Data Retrieval.
+Elastic Routing in Ad Hoc Networks with Directional Antennas.
+Enhanced Co-Primary Spectrum Sharing Method for Multi-Operator Networks.
+Exploring Vision-Based Techniques for Outdoor Positioning Systems: A Feasibility Study.
+Improving VANET Simulation with Calibrated Vehicular Mobility Traces.
+Minimum-Cost Network-Wide Broadcast over Reliable MAC-Layer Multicast.
+Mobile Contextual Recommender System for Online Social Media.
+Multi-Lane Pothole Detection from Crowdsourced Undersampled Vehicle Sensor Data.
+Multi-Source Video Multicast in Internet-Connected Wireless Mesh Networks.
+mw-HierBack: A Cost-Effective and Robust Millimeter Wave Hierarchical Backhaul Solution for HetNets.
+Overlapping Coalition Formation Game for Resource Allocation in Network Coding Aided D2D Communications.
+Performance and Security Analyses of Onion-Based Anonymous Routing for Delay Tolerant Networks.
+Post-Streaming Rate Analysis - A New Approach to Mobile Video Streaming with Predictable Performance.
+Providing Guaranteed Protection in Multi-Hop Wireless Networks with Interference Constraints.
+QuickSync: Improving Synchronization Efficiency for Mobile Cloud Storage Services.
+SecureMAC: Securing Wireless Medium Access Control Against Insider Denial-of-Service Attacks.
+Spectrum Reuse Ratio in 5G Cellular Networks: A Matrix Graph Approach.
+TeamPhone: Networking SmartPhones for Disaster Recovery.
+Why 6 Mbps is Not (Always) the Optimum Data Rate for Beaconing in Vehicular Networks.
+WMSP: Bringing the Wisdom of the Crowd to WiFi Networks.

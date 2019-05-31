@@ -1,0 +1,6 @@
+﻿Transparent data encryption enables you to encrypt sensitive data, such as credit card numbers, stored in table columns. 
+Encrypted data is transparently decrypted for a database user who has access to the data. 
+Transparent data encryption helps protect data stored on media in the event that the storage media or data file gets stolen.
+Oracle Database 11g uses authentication, authorization, and auditing mechanisms to secure data in the database, but not in the operating system data files where data is stored. 
+To protect these data files, Oracle Database provides transparent data encryption. Transparent data encryption encrypts sensitive table data stored in data files. 
+To prevent unauthorized decryption, transparent data encryption stores the encryption keys in a security module external to the database.
